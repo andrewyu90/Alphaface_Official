@@ -1,0 +1,2 @@
+#!/bin/bash
+CUDA_VISIBLE_DEVICES=0 python train_clip.py configs/alphaface_train_demo
