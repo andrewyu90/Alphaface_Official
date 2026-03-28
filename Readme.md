@@ -14,3 +14,12 @@ For demo (Assuming you already installed the requirements)
 3. Run eval.sh
 
 * We only provide data samples for training and evalaution demo (256 triplets of image, mask, and text)
+
+
+```bibtex
+@article{yu2026alphaface,
+  title={AlphaFace: High Fidelity and Real-time Face Swapper Robust to Facial Pose},
+  author={Yu, Jongmin and Oh, Hyeontaek and Sun, Zhongtian and Aviles-Rivero, Angelica I and Jeon, Moongu and Yang, Jinhong},
+  journal={arXiv preprint arXiv:2601.16429},
+  year={2026}
+}
